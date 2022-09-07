@@ -1,0 +1,48 @@
+/* ---------------------
+    common part start
+------------------------ */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+ul,ol{
+  list-style-type: none;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ----------------------
+     common part end
+ ------------------------ */
+
+ /* ---------------------
+   logo part start
+----------------------- */
+
+#brand_logo{
+
+  margin-top: 100px;
+}
+.container hr{
+  border: 1px solid lightgrey;
+}
+.company{
+  text-align: center;
+  margin: 30px 0px;
+}
+.company img{
+  margin: 0px 10px;
+  transition: .5s;
+}
+.company img:hover{
+  transform: scale(1.25);
+}
+
+/* ----------------------
+  logo part start
+----------------------- */
