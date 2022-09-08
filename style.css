@@ -46,3 +46,18 @@ body{
 /* ----------------------
   logo part start
 ----------------------- */
+
+.footer{
+  color: white;
+  background-color: black;
+  padding: 50px;
+}
+.icons{
+  text-align: center;
+}
+.icon{
+  color: white;
+  border: 5px;
+  padding: 5px;
+  font-size: 2em;
+}
