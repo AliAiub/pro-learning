@@ -15,7 +15,9 @@ ul,ol{
 body{
   font-family: 'Poppins', sans-serif;
 }
-
+.text-color{
+  color: #707b7c;
+}
 /* ----------------------
      common part end
  ------------------------ */
