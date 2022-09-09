@@ -19,8 +19,24 @@ body{
   color: #707b7c;
 }
 /* ----------------------
-     common part end
+     Course & Student part
  ------------------------ */
+ @media only screen and (min-width: 992px) {
+  .heading-area{
+    height: 80px;
+  }
+  .text-shots{
+    height: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+ }
+
+.std-size{
+  width: 50px;
+  height: 50px;
+  ;
+}
 
  /* ---------------------
    logo part start
@@ -44,6 +60,7 @@ body{
 .company img:hover{
   transform: scale(1.25);
 }
+
 /* ----------------------
   Register part start
 ----------------------- */
@@ -62,8 +79,9 @@ body{
   border-radius: 10px;
   border: none;
 }
+
 /* ----------------------
-  logo part start
+  Footer part start
 ----------------------- */
 
 .footer{
